@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "906213834010",
+    "firebase_url": "https://bitcoin-7b9fa.firebaseio.com",
+    "project_id": "bitcoin-7b9fa",
+    "storage_bucket": "bitcoin-7b9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906213834010:android:d2b55120c65e91b8ca40a3",
+        "android_client_info": {
+          "package_name": "com.sakibul.junior_se_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906213834010-4gtrkhk6qkh47laqofm93ivomk6jv4p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sakibul.junior_se_test",
+            "certificate_hash": "9023e5014a9c68788338f7456b8fbb298fbb3ab1"
+          }
+        },
+        {
+          "client_id": "906213834010-0krje77s14gnjareusg8ohela9qanpb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5wW4YwNfYRuEoL215AILgpUtXpy5M2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906213834010-0krje77s14gnjareusg8ohela9qanpb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
